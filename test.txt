@@ -1,2 +1,4 @@
 hello github 
 upload succeed!
+
+第二次测试上传，远程的GitHub网站上显示此内容就意为成功
